@@ -29,7 +29,7 @@ Welp as a given i like doing a litle programming or following tutorials on YT an
 ```
 
 
-### Programming for Homework
+## Programming for Homework
 Here I just want to show alitle about what we do for homework or work in school. it will only be something simple as I'm pretty much still in the introducktion period.
 
 
