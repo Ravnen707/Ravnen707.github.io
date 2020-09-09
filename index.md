@@ -23,19 +23,8 @@ Welp as a given i like doing a litle programming or following tutorials on YT an
 
 - Anime
 - Manga
-
-<iframe src="hhttps://media.comicbook.com/2020/08/top-anime-series-fans-watch-rest-of-their-lives-1232872-1280x0.jpeg" width="65%" height="435" style="border:1px solid black;">
-</iframe>
-
 - Heavy Metal / Hard Rock
-
-<iframe src="https://image.shutterstock.com/image-vector/vector-label-heavy-metal-600w-229854148.jpg" width="65%" height="435" style="border:1px solid black;">
-</iframe>
-
 - Reading about William Shakespears and some of his books (Love "The Tempest")
-
-<iframe src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQer4RgQGYBvaviilrWkVXS62FdZRYIqf_KjQ&usqp=CAU" width="65%" height="435" style="border:1px solid black;">
-</iframe>
 
 
 ```
