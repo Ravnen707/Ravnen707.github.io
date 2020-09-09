@@ -54,7 +54,7 @@ public class Opgave12 {
             double hour = 1;
             double minutes = 40;
             double seconds = 35;
-            //Coverter from miles to Km
+            //Coverting from miles to Km
             double Km = 24 * 1.6;
             // Making everything into minutes
             double TimeMins = hour * 60 + minutes + seconds / 60;
