@@ -72,6 +72,8 @@ which it does ;)
 
 # Where to find me!
 IG: [Github Flavored Markdown](https://www.instagram.com/andreas.k.ravn/?hl=da)
+
 FB: [Github Flavored Markdown](https://www.facebook.com/andreas.k.ravn)
+
 Email: [Github Flavored Markdown](Ravnen707@gmail.com)
 
