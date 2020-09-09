@@ -64,19 +64,11 @@ public class Opgave12 {
             System.out.println(KmPrHour);
         }
     }
-Here 
+Here the output is meant to give a result which says how fast a man runs as Km per. hour.
+which it does ;) 
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ravnen707/Ravnen707.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 # Where to find me!
 IG: [Github Flavored Markdown](https://www.instagram.com/andreas.k.ravn/?hl=da)
