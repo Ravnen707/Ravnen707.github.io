@@ -70,10 +70,6 @@ which it does ;)
 ```
 
 
-# Where to find me!
-IG: https://www.instagram.com/andreas.k.ravn/?hl=da
+# How to get to me!
 
-FB: https://www.facebook.com/andreas.k.ravn
-
-Email: Ravnen707@gmail.com
-
+Email: Andr8343@edu.easj.dk
