@@ -16,7 +16,7 @@ The more i learned about programming the more i liked it. So i really decided i 
 
 ## My hobbies? 
 
-Welp as a given i like doing a litle programming or following tutorials on YT and so on. But other than that I also like gaming. I dont really game alot of different games to be honest. I play: World of Warcraft and I've played it for many years now as it always beed a big part of my life since i learned to read english. If not World of Warcraft it would be: Counter Strike Scource or Modern Warfare 2.
+Welp as a given i like doing a litle programming or following tutorials on YT and so on. But other than that I also like gaming. I dont really game alot of different games to be honest. I play: World of Warcraft and I've played it for many years now as it always beed a big part of my life since I learned to read english. If not World of Warcraft it would be: Counter Strike Scource or Modern Warfare 2.
 
 ``` markdown
 # Fast hobbies
@@ -30,12 +30,36 @@ Welp as a given i like doing a litle programming or following tutorials on YT an
 
 
 ### Programming for Homework
-
+Here I just want to show alitle about what we do for homework or work in school. it will only be something simple as I'm pretty much still in the introducktion period.
 
 
 ```
+public class opgave3 {
+    public static void main(String[] args) {
+        System.out.println("   J    a   v     v  a ");
+        System.out.println("   J   a a   v   v  a a");
+        System.out.println("J  J  aaaaa   V V  aaaaa");
+        System.out.println(" JJ  a     a   V  a     a");
+    }
+}
+_____________________________________________________________________________________________________
 
+public class Opgave12 {
+         public static void main(String[] args) {
+            //Giving hours/minutes and secunds a name to make the calculation a litle bit number heavy.
+            double hour = 1;
+            double minutes = 40;
+            double seconds = 35;
+            //Coverter from miles to Km
+            double Km = 24 * 1.6;
+            // Making everything into minutes
+            double TimeMins = hour * 60 + minutes + seconds / 60;
+            // Calculationg Km pr. hour
+            double KmPrHour = 60 * Km / TimeMins;
 
+            System.out.println(KmPrHour);
+        }
+    }
 
 ```
 
