@@ -46,7 +46,8 @@ ________________________________________________________________________________
 
 public class Opgave12 {
          public static void main(String[] args) {
-            //Giving hours/minutes and secunds a name to make the calculation a litle bit number heavy.
+            //Giving hours/minutes and secunds a name to make the calculation
+             a litle bit number heavy.
             double hour = 1;
             double minutes = 40;
             double seconds = 35;
