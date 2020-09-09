@@ -71,7 +71,7 @@ which it does ;)
 
 
 # Where to find me!
-IG: [https://www.instagram.com/andreas.k.ravn/?hl=da]
+IG: "[https://www.instagram.com/andreas.k.ravn/?hl=da]"
 
 FB: [https://www.facebook.com/andreas.k.ravn]
 
