@@ -42,6 +42,9 @@ public class opgave3 {
         System.out.println(" JJ  a     a   V  a     a");
     }
 }
+
+This homework were meant to make the output say JAVA the way it does here.
+When running this code the output says JAVA.
 _____________________________________________________________________________________________________
 
 public class Opgave12 {
@@ -61,6 +64,7 @@ public class Opgave12 {
             System.out.println(KmPrHour);
         }
     }
+Here 
 
 ```
 
