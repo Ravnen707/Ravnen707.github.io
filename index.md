@@ -1,6 +1,6 @@
 ### Welcome to my page where i will twll about myselff and what i like!
 
-<iframe src="https://scontent-cph2-1.xx.fbcdn.net/v/t1.0-9/28379485_1814160508628225_7888722495937467992_n.jpg?_nc_cat=104&_nc_sid=85a577&_nc_ohc=WvftE6H1RZMAX8xhlbD&_nc_ht=scontent-cph2-1.xx&oh=e694afd9c4bb6b096c7422e5a593a659&oe=5F7F35CB" width="65%" height="435" style="border:1px solid black;">
+<iframe src="https://scontent-cph2-1.xx.fbcdn.net/v/t1.0-9/28379485_1814160508628225_7888722495937467992_n.jpg?_nc_cat=104&_nc_sid=85a577&_nc_ohc=WvftE6H1RZMAX8xhlbD&_nc_ht=scontent-cph2-1.xx&oh=e694afd9c4bb6b096c7422e5a593a659&oe=5F7F35CB" width="68%" height="435" style="border:1px solid black;">
 </iframe>
 
 Hi! My name is Andreas Kærgård Ravn! Im a 23 year old student at: Zealand Erhvervsakademi Næstved.
