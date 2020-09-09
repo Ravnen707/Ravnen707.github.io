@@ -8,9 +8,6 @@ I'm that lucky that i only live 10min walk to and from school.
 But i havent always lived in Næstved. I used to live in a small village called Dalby where I also went to school. But around when i turned 15 or so i moved to Haslev with my mom and sister and stepfather. My real allready lived in Næstved at this point. So yeah as you can guess. my parents are divorced. Welp in Haslev i lived all the way throught the rest of my school time through highschool. 
 After all that i took 1 year off to work were i also moved to Næstved to live with my dad because of money problems and so on. So now school wise we're up to were I am today.
 
-<iframe src="https://scontent-cph2-1.xx.fbcdn.net/v/t1.0-9/28379485_1814160508628225_7888722495937467992_n.jpg?_nc_cat=104&_nc_sid=85a577&_nc_ohc=WvftE6H1RZMAX8xhlbD&_nc_ht=scontent-cph2-1.xx&oh=e694afd9c4bb6b096c7422e5a593a659&oe=5F7F35CB" width="60%" height="435" style="border:1px solid black;">
-</iframe>
-
 ## Why did I decide to go to this kind of school now?
 
 When i decided on my first gymnasium i took it because it had something to do with site-programming. This gymnaium were Ringsted - HTX, but when it came to it we were only 5 people who wanted it so it got shut down.. this lead me to drop out and take a HF in Haslev just to have something to do. But after the first year i decided i wanted something a litle more nerdy so i once again dropped out. This time i took the right choice as I went to HTX in Næstved were i took the nerdy route with Programming, InformationTechnology and InformationHistorie. As i found out about myself I rather liked programming. 
